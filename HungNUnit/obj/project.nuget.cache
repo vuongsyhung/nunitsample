@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Os9MtVLL0v4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vuong\\source\\repos\\HungNUnit\\HungNUnit\\HungNUnit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vuong\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\vuong\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\vuong\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\vuong\\.nuget\\packages\\selenium.webdriver\\4.22.0\\selenium.webdriver.4.22.0.nupkg.sha512"
+  ],
+  "logs": []
+}
